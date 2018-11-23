@@ -1,1 +1,0 @@
-# nca-rank-manager
